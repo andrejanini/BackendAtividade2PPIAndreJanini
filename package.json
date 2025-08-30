@@ -1,0 +1,25 @@
+{
+  "name": "backendatividade2ppiandrejanini",
+  "version": "1.0.0",
+  "description": "Projeto Backend Atividade 2 PPI 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejanini/BackendAtividade2PPIAndreJanini.git"
+  },
+  "keywords": [
+    "Backend",
+    "Node",
+    "JavaScript",
+    "MySQL"
+  ],
+  "author": "André Janini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejanini/BackendAtividade2PPIAndreJanini/issues"
+  },
+  "homepage": "https://github.com/andrejanini/BackendAtividade2PPIAndreJanini#readme"
+}
