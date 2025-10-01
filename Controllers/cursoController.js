@@ -2,7 +2,7 @@ import Curso from "../Models/curso.js";
 
 export default class CursoController {
     // Métodos para traduzir requisições HTTP em ações internas da aplicação e retornar respostas HTTP
-
+    
     // HTTP POST
     gravar(requisicao, resposta) {
         if (requisicao.method === 'POST' && requisicao.is("application/json")) {
